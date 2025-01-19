@@ -1,7 +1,7 @@
 ## Binary Search Key Points:
 -> Optimised version of linear Search
 -> Reduces time complexity from O(n) -> O(logn)
-->
+-> Used solely for optimized searching operations
 -> 
 ->
 ->
