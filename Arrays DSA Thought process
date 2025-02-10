@@ -1,6 +1,6 @@
 Array most widely used approaches:
 1) Simple 2 for loops -> O(n2)
-2) Set/ Hashmap/ additional data structure -> O(n*log(n)) as the insertion operation in Set -> O(logn) 
+2) Set/ Hashmap/ additional data structure -> O(n*log(n)) as the insertion operation in Set -> O(logn); mostly use unordered map
 3) 1 pointers (i & j-> starting from either of the two directions/ adjacent to each other)
 4) Linear Search, Binary Search -> O(n) + O(logn)
 5) Sorting algos-> O(nlogn)
